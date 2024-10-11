@@ -3,7 +3,12 @@ Olá Mundo, bem vindo ao meu perfil do Github! Meu nome é Juan <br><br>
 Hello World, welcome to my Github profile! My name is Juan <br><br>
 Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan
 </h2>
-  
+<p>
+  Meu nome é Juan e sou apaixonado por tecnologia e conhecimento. Como visto no título, tenho o português como língua materna e o inglês como minha segunda língua de comunicação. Quanto ao alemão, ainda estou estudando, atualmento no nível básico. <br>
+  Busco trabalhar como programador, atualmente em desenvolvimento de sites, mas também gostaria de trabalhar com machine learning, bancos de dados e desenvolvimento de software. <br>
+  Estudo também sobre cibersegurança, atualmente no nível básico, aprendendo como o Kali Linux ou o Parrot podem ser úteis no auxílio de hacking. Pretendo chegar ao nível de pentester.
+</p>
+
 ###
 
 <div align="center">
@@ -47,6 +52,6 @@ Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/juanasv/juanasv/output/snake.svg" alt="Snake animation" />
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" />
 
 ###
