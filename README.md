@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 style="border-bottom: none;">Olá Mundo, bem vindo ao meu perfil do Github! Meu nome é Juan</h2>
+<h2 style="border-bottom: none;">Hello World, welcome to my Github profile! My name is Juan</h2>
+<h2>Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan</h2>
 
 ###
 
