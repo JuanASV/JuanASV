@@ -3,6 +3,9 @@ Olá Mundo, bem vindo ao meu perfil do Github! Meu nome é Juan <br><br>
 Hello World, welcome to my Github profile! My name is Juan <br><br>
 Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan
 </h2>
+
+<h5>Sobre min:</h5>
+
 <p>
   Meu nome é Juan e sou apaixonado por tecnologia e conhecimento. Como visto no título, tenho o português como língua materna e o inglês como minha segunda língua de comunicação. Quanto ao alemão, ainda estou estudando, atualmento no nível básico. <br>
   Busco trabalhar como programador, atualmente em desenvolvimento de sites, mas também gostaria de trabalhar com machine learning, bancos de dados e desenvolvimento de software. <br>
