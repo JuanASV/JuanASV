@@ -1,17 +1,18 @@
-<h2 style="border-bottom: none;">Olá Mundo, bem vindo ao meu perfil do Github! Meu nome é Juan</h2>
-<h2 style="border-bottom: none;">Hello World, welcome to my Github profile! My name is Juan</h2>
-<h2>Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan</h2>
-
+<h2>
+Olá Mundo, bem vindo ao meu perfil do Github! Meu nome é Juan <br><br>
+Hello World, welcome to my Github profile! My name is Juan <br><br>
+Hallo Welt, willkommen auf meinem Github Profil! Mein Name ist Juan
+</h2>
+  
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanASV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
@@ -46,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/juanasv/juanasv/output/snake.svg" alt="Snake animation" />
 
 ###
